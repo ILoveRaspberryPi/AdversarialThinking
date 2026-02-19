@@ -1,5 +1,5 @@
 # Hardening-Labs README
-This section documents my hands-on experience in securing operating systems and applications against unauthorized access and exploitation in accordinance with the modern standards and frameworks.
+This section documents my hands-on experience in securing operating systems and applications against unauthorized access and exploitation in accordinance with modern standards and frameworks.
 
   ### Frameworks & Standards
     My approach to system hardening is grounded in:
